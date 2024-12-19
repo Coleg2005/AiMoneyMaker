@@ -1,4 +1,4 @@
-AiMoneyMaker uses machine learning techniques to predict the stock market of cyclical stocks with clear results and is easily changed to accomodate for various stocks
+**AiMoneyMaker** uses machine learning techniques to predict the stock market of cyclical stocks with clear results and is easily changed to accomodate for various stocks
 
 # AiMoneyMaker
 
