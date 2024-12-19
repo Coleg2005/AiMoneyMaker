@@ -16,8 +16,8 @@
 
 ### How to Interpret Graphs, Change Input, and Which Stocks Work Best
 1. In the second cell, in the parentheses, you can change what stock is being predicted and when the predictions are based on by using the format
-  - ('yfinance stock abbreviation', start= 'start date in YYYY-MM-DD format', end= 'end date in YYYY-MM-DD format')
-  - To see the new stock results, click the "Runtime" tab, then click "Run All"
+    * ('yfinance stock abbreviation', start= 'start date in YYYY-MM-DD format', end= 'end date in YYYY-MM-DD format')
+    * To see the new stock results, click the "Runtime" tab, then click "Run All"
 
 2. To find the yfincance stock abbreviation just look it up in your browser of choice and it should be there
 
